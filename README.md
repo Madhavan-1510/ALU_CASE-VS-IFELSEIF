@@ -89,6 +89,7 @@ Select “Don’t include any libraries (verilog design)” from “New cds.lib 
 We are simulating a verilog design without using any libraries
 
 Click “OK” in the “nclaunch: Open Design Directory” window, as shown in the figure below
+<img width="422" height="267" alt="image" src="https://github.com/user-attachments/assets/70dcd6d9-0691-4fb4-8f01-28b833eaa670" />
 
 #### Fig 2: Selection of Don’t include any libraries
 An ‘NCLaunch window’ appears as shown in the figure below
